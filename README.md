@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mkamilmistar
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning iOS Development
-- 💞️ I’m currently work in Mandiri Bank
+- 👀 I’m interested in Backend Developer
+- 💞️ I’m currently work in Mandiri Bank as NBDS Backend Developer 
 - 📫 How to reach me www.mkamil.site
 
 <!---
